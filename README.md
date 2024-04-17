@@ -1,1 +1,1 @@
-# InterviewBit-Gihub
+# InterviewBit-Github
